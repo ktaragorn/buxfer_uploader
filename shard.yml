@@ -1,0 +1,13 @@
+name: buxfer_uploader
+version: 0.1.0
+
+authors:
+  - Karthik T <karthikt.holmes+github@gmail.com>
+
+targets:
+  buxfer_uploader:
+    main: src/buxfer_uploader.cr
+
+crystal: 0.24.1
+
+license: MIT
