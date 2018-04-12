@@ -8,6 +8,11 @@ targets:
   buxfer_uploader:
     main: src/buxfer_uploader.cr
 
+dependencies:
+  icr:
+    github: crystal-community/icr
+    branch: master
+
 crystal: 0.24.1
 
 license: MIT
